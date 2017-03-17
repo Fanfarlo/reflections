@@ -11,3 +11,7 @@ Describe the differences between forks, clones, and branches. When would you use
 - You use Forks when you need to copy and work with a recipe from other users
 - You use Clones when you want a copy of a recipe in your computer.
 - You use Branches to pull and push commits between your computer and GitHub
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+- We can compare our local code with someone collaborations in GitHub.
