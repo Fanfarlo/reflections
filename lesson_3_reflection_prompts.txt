@@ -20,3 +20,14 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 - Would be easy to merge changes
 - Would be harder to compare the changes and keep track of the collaboration from every user.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Separate Branch
+- To try new things in my project and wanted to keep my original version on master.
+- To make a collaboration into other users projects
+- To have a history of all my commits in case of a bug or conflicts.
+
+Master Branch
+- To make little changes to my project
+- To easy keep track of all my changes. 
